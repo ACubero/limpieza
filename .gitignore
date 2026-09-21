@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# SQLite (la BD tiene datos reales, no se versiona)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups y archivos de migración
+*.bak
+*.v1bak
+*.orig
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
