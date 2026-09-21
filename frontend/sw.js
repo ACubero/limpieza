@@ -13,7 +13,7 @@
  *   - localStorage NO se toca (el SW ni lo lee ni lo escribe).
  */
 
-const VERSION = 'v1.1.7';
+const VERSION = 'v1.1.8';
 const CACHE = `limpieza-${VERSION}`;
 
 /** Rutas de assets (relativas al scope del SW). */
